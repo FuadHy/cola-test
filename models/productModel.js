@@ -16,7 +16,7 @@ module.exports = sequelize.define('Product', {
         allowNull: false
     },
     quantity_on_stock: {
-        type: DataTypes.NUMBER,
+        type: DataTypes.INTEGER,
         allowNull: false
     },
 })
