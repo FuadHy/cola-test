@@ -1,2 +1,2 @@
-# start: `npm start`
-# test: `npm test`
+## start: `npm start`
+## test: `npm test`
